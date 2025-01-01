@@ -1,5 +1,6 @@
 {
     "name": "flevnex/elicense",
+    "version": "1.0.1",
     "description": "A Laravel package for managing electronic licenses",
     "type": "library",
     "license": "MIT",
